@@ -41,5 +41,5 @@ Answer: VGG and ResNet identified correctly 75% of images. Overall, the best-per
 
 
 #Final Results:
-![image](https://github.com/Harxnee/Dog-Breed-Classifier/assets/91590046/0e3c1d1b-2ea2-491d-b6d6-b5286c654387)
+![results](https://github.com/Harxnee/Dog-Breed-Classifier/assets/91590046/ca409364-e208-4570-a04a-dea75461e599)
 
